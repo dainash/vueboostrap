@@ -1,6 +1,6 @@
 # drill_platfrom fe
 
-## 基于webpack、vue、ivew的容灾管理后台
+## 基于webpack、vue、ivew的后台脚手架
 
 #### 主要目录结构
 
