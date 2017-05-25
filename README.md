@@ -1,4 +1,4 @@
-# drill_platfrom fe
+# common platfrom fe
 
 ## 基于webpack、vue、ivew的后台脚手架
 
